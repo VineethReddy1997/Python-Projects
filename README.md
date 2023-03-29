@@ -1,2 +1,2 @@
-# Python-Projects
-Python Projects Implementation
+# Python-Project
+Python Projects for Python Developers 
