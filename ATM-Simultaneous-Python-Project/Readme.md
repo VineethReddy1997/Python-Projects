@@ -8,12 +8,6 @@ Pin code: 2222
 ***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT ME *****  
 
 
-***** LEAVE A COMMENT IF YOU LOVED MY WORK *****
-
-
-
-THANK YOU FOR DOWNLOADING :) 
-
 ______________
 **CONTRIBUTION**
 >- Created by [Vineeth Reddy](https://linktr.ee/vineethreddy1997)
