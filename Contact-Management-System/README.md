@@ -1,10 +1,14 @@
-CONTACT MANAGEMENT SYSTEM - USING PYTHON
+## APPLICATION TITLE
+**CONTACT MANAGEMENT SYSTEM - USING PYTHON**
+
 > This application  is used for creating contacts and deleting the contacts 
+ 
+###### Result of the Application img
 
-***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT ME *****  
+![Contact List.png](https://github.com/VineethReddy1997/Python-Projects/blob/master/Contact-Management-System/scrn_shot_contact.png)
 
-[![Input-Calendar.png](https://i.postimg.cc/XvWkzGgK/Input-Calendar.png)](https://postimg.cc/rDh4dp3z)
 
+**IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT ME**
 ___________
 **CONTRIBUTION**
 >- Created by [Vineeth Reddy](https://linktr.ee/vineethreddy1997)
