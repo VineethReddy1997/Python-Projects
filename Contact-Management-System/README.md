@@ -3,7 +3,7 @@
 
 > This application  is used for creating contacts and deleting the contacts 
  
-###### Result of the Application img
+###### Result of the Application
 
 ![Contact List.png](https://github.com/VineethReddy1997/Python-Projects/blob/master/Contact-Management-System/scrn_shot_contact.png)
 
