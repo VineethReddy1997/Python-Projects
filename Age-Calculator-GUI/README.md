@@ -1,6 +1,6 @@
 # Age Calculator Application GUI by using Tkinter 
 
-In this age calculator app, users can type in their date of birth, and the app will calculate and display their age. 
+In this age calculator app, users can type in their date of birth, and the app will calculate and display their age.  
 
 ## Step 1:
 
@@ -43,3 +43,4 @@ __________
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gangulavineeth1)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/vineethreddygangula)
 [![Stack overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18168904/vineeth-reddy-gangula)
+
